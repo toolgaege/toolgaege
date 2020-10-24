@@ -1,9 +1,9 @@
 ### Hi there, I'm Tolga EGE -  [toolgaege][website] 👋
 
 [![Website](https://img.shields.io/website?label=tolgaege.com&style=for-the-badge&url=https%3A%2F%2Ftolgaege.com)](https://tolgaege.com)
-[![Linkedin Follow](https://img.shields.io/twitter/follow/tolgaege?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tolgaege/)
+[![Linkedin Follow](https://img.shields.io/twitter/follow/yazilimciuzman?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tolgaege/)
 
-## I'm a Husband, Father, Mobile and Web Full-stack Senior Developer!!
+## I'm a Husband, Father, Mobile and Web Full-stack Senior Developer!!  
 
 - 🌱 I’m currently learning everything 🤣
 
