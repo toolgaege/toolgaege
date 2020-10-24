@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Mobile and Web Full-stack Senior Developer!!  
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently using everything for softwares
 
 ### Spotify Playing 🎧
 
