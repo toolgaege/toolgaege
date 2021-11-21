@@ -6,9 +6,6 @@
 
 - 🌱 I’m currently using everything for softwares
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tolga EGE Spotify Playing" width="350" />](https://open.spotify.com/user/fjoa30h62ltcba6uqqzmv18qe)
 
 ### Connect with me:
 
